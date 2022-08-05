@@ -1,0 +1,11 @@
+
+
+ul li {
+  display:inline-flex;
+}
+
+i {
+  color: rgba(30, 73, 143, 1);
+  gap:15px;
+  padding-left: 20px;
+}
